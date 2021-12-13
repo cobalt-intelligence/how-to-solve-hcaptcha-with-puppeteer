@@ -1,0 +1,32 @@
+{
+  "name": "how-to-solve-hcaptcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobalt-intelligence/how-to-solve-hcaptcha-with-puppeteer.git"
+  },
+  "author": "Jordan Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobalt-intelligence/how-to-solve-hcaptcha-with-puppeteer/issues"
+  },
+  "homepage": "https://github.com/cobalt-intelligence/how-to-solve-hcaptcha-with-puppeteer#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^13.0.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-recaptcha": "^3.5.0",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^16.11.12",
+    "@types/puppeteer": "^5.4.4",
+    "typescript": "^4.5.3"
+  }
+}
