@@ -10,7 +10,7 @@ Clone the repository and run `npm i`.
 
 You'll need to put your rename `.sample.env` to `.env` and put your captcha API key/token that you received from 2Captcha.
 
-* [Video: How to solve hCaptcha with Puppeteer](https://youtu.be/qxWdFLRl6nw)
+* [Video: How to solve hCaptcha with Puppeteer](https://youtu.be/MKiCVRHeSHg)
 
 ### Prerequisites
 
